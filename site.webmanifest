@@ -1,0 +1,9 @@
+{
+  "name": "Zeberike — AI Automation",
+  "short_name": "Zeberike",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2e9",
+  "theme_color": "#f6f2e9",
+  "icons": []
+}
